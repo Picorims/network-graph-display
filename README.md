@@ -2,6 +2,7 @@
 A viewer for the network-graph-from-bitmap repository, allows to execute Dijkstra algorithm on selected nodes.
 
 The network builder is available here: https://github.com/Picorims/network-graph-from-bitmap
+A hosted build is available here: https://picorims.github.io/network-graph-display/
 
 ## Developing
 
